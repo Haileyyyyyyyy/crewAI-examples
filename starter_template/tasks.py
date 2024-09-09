@@ -34,6 +34,7 @@ class ScriptTasks:
             align with the story’s themes.
 
             Character options: {', '.join([char['name'] for char in character_list])}
+            Character options: {', '.join(character_list)}
         """),
         agent=agent
         )

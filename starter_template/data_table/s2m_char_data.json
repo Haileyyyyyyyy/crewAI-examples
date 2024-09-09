@@ -1,0 +1,628 @@
+{
+  "type": "character_presets",
+  "character_presets": [
+    {
+      "char_id": "1",
+      "char_default_name": "Charlotte",
+      "char_default_desc": "An adorably styled woman in her 20s with hair in cute pigtail buns and wearing a crop top and tennis skirt.  She's likely to be the youngest sister in the family, and she's spunky, sloppy, and always positive. She is very expressive, loves to draw and paint, sings well, and loves romance movies. She is not shy and speaks her mind about anything.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1033",
+      "char_default_name": "Ashlyn",
+      "char_default_desc": "Cute and lively high school female protagonist with a C-curled red-brown bob hairstyle, moderately casual. Teenage Caucasian, spring, fall, summer. She is very outgoing and is always involved in organizing school events. She is often criticized by others for being too outgoing. She is interested in people, loves pop music, and enjoys eating good food. When she works part-time, she is very friendly with people, but sometimes she makes mistakes.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "2",
+      "char_default_name": "Bella",
+      "char_default_desc": "Casual summer look, white woman in her 20s and 30s wearing wedge sandals, stylish, wavy layered brown hair, striped white pants and checkered tank top, summer clothes. She loves going to the beach and loves drinking cocktails with the girls.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1010",
+      "char_default_name": "Elena",
+      "char_default_desc": "TOMBOY, with a stylish and pretty short haircut and charisma, popular among women, 20s to 30s white woman, spring and autumn. / She is a rock music lover, skateboarder, and a model. She wears a smirk and doesn't talk much, but these behaviors make her popular among people. She always wears pants and sometimes smokes alone.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "3",
+      "char_default_name": "Rodri",
+      "char_default_desc": "Attractive black woman in her 20s to 30s with black and white striped suit, short black hair and a fresh and attractive look. Sexy, elegant, intelligent, high self-esteem, self-serving, successful career woman, CEO, style that fits formal meetings, events, seminars. / A wonderful boss that many employees like at work. Career woman who wakes up early in the morning to go to work out, studies and does self-care when she gets off work, and eats healthy meals.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1012",
+      "char_default_name": "Calista",
+      "char_default_desc": "A teenage woman with a unique hair color, two-tone purple and green hair, long wavy hair, and a dark checkered shirt pattern and leggings.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "5",
+      "char_default_name": "Lina",
+      "char_default_desc": "A smart-looking woman in her 20s with medium-length ponytailed hair, wearing a sweatshirt and H-line skirt with knee-high socks. / She is likely the eldest daughter in the family. She is smart, bold, calm, articulate, charismatic as the class president of her school, but shy in front of her crush. She is secretly a big fan of idol groups and keeps a diary.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "6",
+      "char_default_name": "DongWoo",
+      "char_default_desc": "Asian man in his 20s, athletic, casually dressed, dark eyebrows and dark eyes, tall with a deep forehead. / He's in a group of popular boys and always has a basketball in his hand. He enjoys skateboarding and occasionally smokes cigarettes. He likes to listen to hip-hop and sleeps through class. Tends to be blunt with girls.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "7",
+      "char_default_name": "Kazuto",
+      "char_default_desc": "A casual Asian man in his twenties to thirties of Japanese descent, wearing a light knit cardigan with jeans, in a comfortable style, with an ordinary appearance. / He's the mysterious guy who lives next door, but you never know what he's doing. He is also a depressed person who has lost his lover. He is a bartender in a small pub. He is soft-spoken, has few friends, and enjoys his solitude. He likes jazz music.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "8",
+      "char_default_name": "Carter",
+      "char_default_desc": "Neatly dressed, white male in his 20s and 30s wearing a suit, thin build, high school student in school uniform. / He is a conscientious honor student who does well in school and is class president, but he is not close to all his friends. He joined the chess club and is always sitting in class or reading in the library. If someone catches his attention, he stares at them, but never talks to them.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1027",
+      "char_default_name": "Gray",
+      "char_default_desc": "Handsome male protagonist, all-black suit party look, black shoes, lounge bars, casinos, hotels, suits, stylish attire, white man in his 20s and 30s, spring, autumn and winter. Smooth impression, handsome, movie actor, drama actor, party main character, brown hair, blue eyes, beautiful smile, prom party king, popular guy in the club, formal event and company meeting, successful guy, startup CEO style.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "104",
+      "char_default_name": "Ethan",
+      "char_default_desc": "A white middle aged man with brown hair. In his late 40s to 50s. He has a scruffy beard and mustache, but keeps his hair short and tidy. He is lean and fit, and likes to go on runs with his son. He looks strict and reserved, but deep inside he is a very dependable, loving and understanding person.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "108",
+      "char_default_name": "Julian",
+      "char_default_desc": "A charismatic,  ambitious man in his late 20s to early 30s, likely a successful CEO or professional figure. Lots of confidence and sophistication. decisive, has leadership, concise communication. polished exterior, dressed in formal office attire.  Surprisingly sensitive and empathetic inside.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "101",
+      "char_default_name": "Maya",
+      "char_default_desc": "A pretty woman in her twenties to thirties, wearing a casual look with a tennis skirt, with bright hair color and a double braided bun hairstyle.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "102",
+      "char_default_name": "Liam",
+      "char_default_desc": "Tall white teenage boy wearing a school uniform. He is lean and fit and has an athletic build, and is the popular guy in his class. He has a rebellious streak, and is arrogant, but deep inside he craves love and affection. Blonde, with sharp features and a defined jawline.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "103",
+      "char_default_name": "Mateo",
+      "char_default_desc": "A brunette male in his late teens to early 20s. He is slightly mousey and has a quirky sense of humor, but he always means well. He is always trying to prove himself to others, and this comes across as endearing to the people around him. Likeable character. Wears casual outfits like a tshirt and jeans. Short stocky build. Tan white male. Could be hispanic or mixed race.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1006",
+      "char_default_name": "Layla",
+      "char_default_desc": "A good eccentric, with a unique and quirky style as a supporting actor friend. Ombre hair. White woman in her 20s to 30s, in the spring and autumn. She is an obsessive collector, heavy metal enthusiast, odd pet owner, and quirky talker. She has a friendly personality, but people generally stay away from her; she doesn't care what people think of her.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "105",
+      "char_default_name": "Brooklyn",
+      "char_default_desc": "White girl in her late teens or 20s. She has shoulder length curly light brown hair that frames her face. She likes wearing simple tshirts and light colored blazers. She is doe eyed and has a very sweet personality, but her mannierisms can be mousey sometimes. Girl next door vibes, and quite shy until you get to know her.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "106",
+      "char_default_name": "Damian",
+      "char_default_desc": "A sharp looking white man in his 20s to 30s. He has short brown hair that is gelled back in a sleek way. He likes wearing simple clothes like dark jeans, dark tshirts and a jean jacket, but he is tall and lean enough that the simple outfit looks stylish. He has sharp features and observant eyes, and he tends to be sharp tongued and arrogant at times. Fuckboy vibes.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "107",
+      "char_default_name": "Penelope",
+      "char_default_desc": "A beautiful, enigmatic woman in her mid-20s to early 30s. With alluring blend of innocence and sensuality. Quiet but strong and intelligent, soft but captivating. Relatively new to professional society, but filled with dreams and confidence about finding her true path and love.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "110",
+      "char_default_name": "Madeleine",
+      "char_default_desc": "A white female that wears a navy skirt, white button up shirt, grey vest and navy ribbon tie that looks like a school uniform. In her teens to early twenties. Light ash brown hair in a bob cut that ends just above her shoulders. She has pale skin, a small round nose, and overall soft features, and looks like she could be either shy or extremely smart, or perhaps both. On the prettier side, but probably first in her class.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "111",
+      "char_default_name": "Eliza",
+      "char_default_desc": "A tan white girl in her teens to early twenties wearing a navy skirt, white button up shirt, grey vest and navy ribbon tie that looks like a school uniform. She has a round face but her short, wavy, dark blonde hair that comes down to her shoulders hide the roundness. She looks white, but she could pass for mixed race hispanic as well. Pretty, with soft features, she is chic and cool and popular in her class.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "112",
+      "char_default_name": "Lucas",
+      "char_default_desc": "A tall and lean white male with short brown hair and a scruffy beard and mustache. In his late twenties or thirties, with strong handsome features and a very clean cut, trustable and reliable demeanor. He\u2019s probably very smart, and graduated first in his class, but popular as well. He wears a futuristic white shirt and white cargo pants, and simple white boots that looks like he is living inside a spaceship.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "113",
+      "char_default_name": "Kennedy",
+      "char_default_desc": "A white girl in her teens or early twenties wearing a navy skirt, white button up shirt, grey vest and navy ribbon tie that looks like a school uniform. She has rusty brown hair that is cut short with jagged ends that come to her jawline. With eyes that point up, she has a slightly round but foxy demeanor that makes her look like a troublemaker.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "115",
+      "char_default_name": "Tristan",
+      "char_default_desc": "A white male that wears navy slacks, a white button up shirt, grey vest and navy necktie that looks like a school uniform. He has very short blond hair that shows most of his forehead. Slightly on the shorter side, he is a sidekick, with upturned eyebrows and a mischievous demeanor. He is secretly insecure and has low self-esteem which he makes up for by being loud and talkative in group settings.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1001",
+      "char_default_name": "Justin",
+      "char_default_desc": "Handsome man in his 20s or 30s, dark hair, checkered trunks, wearing comfortable pajamas at home",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1002",
+      "char_default_name": "Audrey",
+      "char_default_desc": "A pretty woman in her twenties to thirties wearing comfortable pajamas at home, short shorts, with a short brown hairstyle.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1003",
+      "char_default_name": "Caleb",
+      "char_default_desc": "A handsome man with a stocky body, wearing light exercise clothes, wearing training clothes, with dark brown hair styled with bangs, wearing jogger pants and a Nagranti, 20 years old. / ~30s Caucasian",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1004",
+      "char_default_name": "Gianna",
+      "char_default_desc": "Woman wearing light sportswear, bra top and leggings, light brown hair tied up, fine-looking woman in her 20s and 30s",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1060",
+      "char_default_name": "Amara",
+      "char_default_desc": "Stylish party host, formal evening event, elegant black dress party look, mermaid black dress, white woman in her 20s and 30s, spring, fall, summer. Ponytail, beautiful smile, queen of the evening party, main character of the party, popular, sociable and energetic celebrity style. A woman who likes to chat with people, likes to cook and bake, is also interested in current affairs and economics, and likes to read books.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1008",
+      "char_default_name": "Hayden",
+      "char_default_desc": "A teenage male wearing all black, dark skin, unique style, goth who likes conversation.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1009",
+      "char_default_name": "Willow",
+      "char_default_desc": "A teenage woman who wears heavy makeup and likes clothes with colorful patterns, brightly colored wavy short hair style",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1011",
+      "char_default_name": "Shae",
+      "char_default_desc": "Cool chic, happy alone personality, all black clothes, sandals, blue short hair teenage woman",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1013",
+      "char_default_name": "Rachel",
+      "char_default_desc": "Office worker, study, teacher, mixed-race woman in her 20s and 30s, dark skin, short hair, spring, fall, patterned suit, patterned dress, casual, chubby woman. / An office woman who is humorous, funny, enjoys chatting with people, older woman, loves alcohol and entertainment, and enjoys potato chips and sweet treats. A normal woman style who laughs well, plays well, eats well.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1014",
+      "char_default_name": "Walter",
+      "char_default_desc": "A fat boss with thinning gray hair, the office manager. Formal style with a checkered suit and tie, white beard and slight wrinkles, white man in his 50s, spring, fall, winter. / A chubby guy with a belly, a greedy, money, honor and power-loving CEO, jealous, bad villain style who misbehaves and conspires with his staff.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1015",
+      "char_default_name": "Frank",
+      "char_default_desc": "Assistant, taxi driver, company colleague met on a day off, middle-aged man style going to the mart. Looks strong but is kind and friendly to neighbors. Short black hair, white polo shirt, dark jeans, 40-50 year old black man, spring, autumn, summer. He's a cool adult who helps the protagonist in a crisis and gives her life advice. He sits on park benches and watches the scenery or sells umbrellas on rainy days. He has a calm, quiet charisma that allows him to solve problems peacefully.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1016",
+      "char_default_name": "Myla",
+      "char_default_desc": "A pretty career woman who looks smart and neat, working in a white-collar office job. She wears her hair in a low bun, a shirt, pencil skirt, and high heels. White women in their 20s to 30s, in spring and fall. / New employees, hotel employees, store employees, looking neat and smart, female protagonists who live their daily lives hard, sincere, hardworking. Cheerful and lively new hire.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1017",
+      "char_default_name": "Anna",
+      "char_default_desc": "Capable career woman, white-collar office job, slightly red long wavy hair with long pants slacks. White people in their 20s to 30s, spring, autumn. / White short-sleeved blouse, sexy and cute type, confident, loves decorating, gossip and chatting, popular, neat and tidy style of clothing.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1031",
+      "char_default_name": "Joanne",
+      "char_default_desc": "A cute and lovely female protagonist. Travel, flower shop. Rowben's lively yellow dress, white, in their 20s to 30s, spring, autumn, summer. She works in the service industry, like a bank teller or flight attendant, and is polite and loving. But she's also very emotional and can burst into tears at a moment's notice. She is shy in front of her crush and finds it difficult to talk to them. Because of her introverted nature, she has deep relationships with only a few people. If she is a student, she is more of a transfer student.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1018",
+      "char_default_name": "Allison",
+      "char_default_desc": "Ordinary office worker, casual yet neat office style with jeans. White-collar female worker in their 20s to 30s, spring, fall, winter. / Brown short hair, gray cardigan, jeans, comfortable shoes, comfortable everyday clothes, office workers off work, weekend office workers style. Ordinary style who likes to drink coffee at a pretty cafe, or take a walk in the park.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1019",
+      "char_default_name": "Nolan",
+      "char_default_desc": "Experienced office worker, friendly colleague at work, workaholic. Has a slightly scruffy beard and mustache and a slightly sharp face. Wears a neat basic shirt with a beige jacket. White, aged 30-40, in spring or autumn. / His position in the company is the team leader, but he is tired, sleep deprived, and likes drinking and entertainment. Divorced man who lives alone, and overworked office worker.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1020",
+      "char_default_name": "Stella",
+      "char_default_desc": "A career woman with excellent fashion sense, working in fashion or magazine industry, stylish office look with short hair, white-collar workers in their 20s and 30s, spring and fall. / Black knitwear, brown slacks, black shoes, older woman, start-up career woman, cool-minded but warm-hearted, keen, intelligent, cool-minded, work-performance-conscious, successful young CEO style.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1021",
+      "char_default_name": "Aiden",
+      "char_default_desc": "An active and cute high school student with a mischievous personality but also is masculine. Has a friendly style with good and pure neighborhood friends. Has light brown slightly wavy hair with some freckles on the face, wearing jeans and a short-sleeved shirt. Age range is from teens to twenties, Caucasian, and suitable for spring, autumn, and summer. He's comfortable playing pranks on old childhood friends, but there's a slight romantic undercurrent. He rides his motorcycle to school and is popular with female customers at work. He rescues his friends from bullies. He's not interested in studying, but his cuteness is endearing to his teachers.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1022",
+      "char_default_name": "River",
+      "char_default_desc": "Handsome idol, popular bright high school student, young adult. Bright hair with a blue jacket and slip-ons, casual style, handsome young man in a cafe or restaurant, white male in his 20s, spring, fall. / He's a star at a young age, he's confident, and he's the handsome new kid in school. He's also a promising athlete. He's friendly to everyone, but he's often mistaken for a flirt.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1023",
+      "char_default_name": "Beau",
+      "char_default_desc": "An intellectual and sophisticated professional or entrepreneur with a slightly sharp ability. He has black hair, is slim and tall, and wears a neat and casual navy jacket and loafers. His style is suitable for meetings in cafes, offices, or on business trips. White male in his 20s or 30s. This style is appropriate for spring and autumn. He's a sharp-tongued man who doesn't hesitate to point out the mistakes of those around him. He's also very defensive and often ignores signs of attraction from women. He falls in love with a subordinate who often argues with him and rescues the weak from difficult situations.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1024",
+      "char_default_name": "James",
+      "char_default_desc": "Middle-aged neighbor with white hair, good physique and stubborn face. He has a strong and impressive gaze, having gone through many hardships when he was young. Wearing a long-sleeved half-zip knit style. White middle-aged man in his 40s to 60s, for spring, autumn, and winter. / He is a retired soldier who was severely wounded on the battlefield. He is a stern but loving man who is skilled with heavy firearms. He's a middle-aged man with a harsh impression to some, but he smiles warmly to those close to him. He owns a small supermarket, runs a pawn shop, lives in a small house, and mows his own lawn.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1025",
+      "char_default_name": "Remi",
+      "char_default_desc": "A normal high school student, a familiar and friendly neighborhood friend, a friend who lives nearby. Wearing a casual blouson and jeans with slightly long brown hair. White, aged between 10 and 20, in spring or autumn. He's a friendly guy who reaches out to lonely transfer students, and he comes to school during the holidays for his football club. He always sits in front of the protagonist at lunch and asks her out on a date despite being shy.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1026",
+      "char_default_name": "Sean",
+      "char_default_desc": "A calm and composed handsome rich man protagonist who enjoys a gentle and office, hotel, and cafe lifestyle. He wears a bright beige business casual jacket over a white shirt with bright hair color. He is in his 20s to 30s and is Caucasian. The season is spring or autumn. / He flirts with women and has a sense of humor that charms people. He is a dilettante and enjoys going out to social gatherings. He is an eloquent speaker, but when he gets flustered, he stutters and becomes embarrassed.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "4",
+      "char_default_name": "YoonJi",
+      "char_default_desc": "A woman in her twenties to thirties with a short bob hairstyle, with bright brown hair, wearing a black knee length skirt with thigh-high socks, in a semi casual style. / She is quiet, unassuming. She is interested in science, introverted, and gives a cynical first impression. She's also a great worker who works efficiently. She has a sharp tongue and gets nervous in front of large groups of people.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1007",
+      "char_default_name": "Zach",
+      "char_default_desc": "A unique artist friend who likes fancy clothes. Light hair with a slender physique. Protagonist's friend, a white man in his 20s to 30s, in spring and autumn. / He enjoys unique music and is an early adopter of machines that no one else uses. He prefers snacks to meals and works part-time at a record store. He's also a bit of a collector, collecting coke bottles. He always tells weird jokes and shrugs when no one laughs. But he's a great counselor who sometimes gives important advice.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "11",
+      "char_default_name": "Gregory",
+      "char_default_desc": "A reticent man in his 20s and 30s with soft brown hair, blue eyes, and bushy eyebrows, wearing a turtleneck knit and cotton pants. Introverted but warm, he is an intellectual who reads a lot. He loves theater and movies and writes reviews and novels. He drinks alcohol in moderation and enjoys coffee. He leads a regular life.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "10",
+      "char_default_name": "Landy",
+      "char_default_desc": "White male in his 20s and 30s, street fashion wearing baseball jumper, mischievous image, brown hair, blue eyes. / He's a smooth talker and is outgoing. He has many friends around him and likes to go to concerts and baseball games. He's the owner of the cafe, is the \u201cguy next door\u201d, the friend's friendly brother, and in most situations, the mediator in a fight. He always sits next to someone who is sad and offers comfort.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "9",
+      "char_default_name": "JiSung",
+      "char_default_desc": "A semi-formally dressed Asian man in his twenties to thirties, with a dandy look, black hair, round face shape, and an average appearance. / He's a good business partner to some of the biggest names in the industry, and while he seems friendly, he has a sassy side. He is a music producer, business manager, and very strict and meticulous, which gives him credibility. He has many casual friends but is lonely without deep relationships.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1028",
+      "char_default_name": "Julia",
+      "char_default_desc": "A pretty female protagonist who is sincere and clear-headed, with a few freckles and curly brown hair, 20s-30s Caucasian, spring, autumn. / She is an honor student who always does well in school and at work, hard working and a bit snobby, seems friendly yet is unapproachable. She is likely the student body president at school and a team leader at work. She's always positive, but when she's angry, she's scary. She is also active and loves to exercise.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1029",
+      "char_default_name": "Michaela",
+      "char_default_desc": "Hospital nurse or doctor, blue surgical gown, blue scrubs, white woman in her 20s to 30s, wild hair and tired expression. She works endlessly day and night, but still loves her job.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1030",
+      "char_default_name": "Camila",
+      "char_default_desc": "A strong middle-aged woman with a short haircut, stubborn and charismatic. A wealthy mother-in-law, a rich lady, wearing a slit skirt and blouse. White, aged 50-60, in spring or fall. / She might be the owner of a large company, or she might be the owner's wife. She owns a luxurious gallery, is smart and clever. She is a strict mother to her children.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1032",
+      "char_default_name": "Delilah",
+      "char_default_desc": "A pretty female protagonist with a calm yet bright and warm style. She has short blonde hair and wears a casual yellow cardigan. She is a white woman in her 20s to 30s, and the setting is spring, autumn, or summer. / She's one of the popular girls. There's something mysterious about her first impression. She has a quirky, easy-going charm. She doesn't seem interested in studying, but she always gets good grades. She\u2019s good at maintaining light, superficial relationships.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1034",
+      "char_default_name": "Lillian",
+      "char_default_desc": "A high school girl wearing glasses with a kind and quiet presence, teenage girl, spring, autumn. / She's a bit shy, soft-spoken, but also emotional, and rarely refuses to do someone a favor. At school she is a good note-taker. She works part-time and is always on the lookout for what's going on around her. Once you get to know her, she says comforting things.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1035",
+      "char_default_name": "Xander",
+      "char_default_desc": "A wealthy man with strong features. Rich, celebrity, actor, show host, young CEO, with a scruffy mustache and wearing luxurious suits, white, in his 20s to 30s, spring and fall.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1036",
+      "char_default_name": "Theo",
+      "char_default_desc": "An ordinary man who enjoys camping and hiking, a white man in his 20s or 30s wearing cargo pants and a field jacket, short black hair, and a chin curtain-style beard.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1037",
+      "char_default_name": "Kylie",
+      "char_default_desc": "A normal high school girl, easy-going and lively with good conversation skills. Wearing shorts, a hoodie, and sneakers in a casual and comfortable style, a Brown teenage girl in spring or fall. / She's a friendly neighbor, handing out homemade cookies to new neighbors and school schedules to new students. She has a good relationship with her parents and is outgoing, always waving to say hello.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1038",
+      "char_default_name": "Ember",
+      "char_default_desc": "A rich, loaded, old-money looking put-together student who wears heavy makeup. Likes playing around. Curly blonde hair. Wears a leather jacket with a black dress and sunglasses. A white teenager, white student, in spring and autumn.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1039",
+      "char_default_name": "Chaz",
+      "char_default_desc": "Active hipster, humorous with a unique and personalized style. A high school student with a distinct perspective and strong opinions. Wears casual hoodies and keeps a low profile. Looks ordinary yet distinctive. White or hispanic teenage boy, spring, fall. / He tells dirty jokes and is often criticized by girls for not being funny. He works part-time at a fast food restaurant but quits frequently. He is interested in music and dancing and is not good at studying. He is always looking out the window or doodles on his textbooks during class. He is not prejudiced and always welcomes the protagonist and listens to their problems. He makes the protagonist feel better by giving them funny advice rather than serious advice.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1040",
+      "char_default_name": "Juniper",
+      "char_default_desc": "A modest and ordinary man, smart but poor. Struggling financially. An engineer, an engineering student, computer engineer, a small startup founder, diligently working towards something. Casual checkered shirt, white man in his 20s to 30s, spring and autumn.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1041",
+      "char_default_name": "Arya",
+      "char_default_desc": "A glamorous and luxurious looking celebrity who lives an ordinary life, with an elegant and luxurious aura yet approachable smile. Stylish hairstyle with a high braided ponytail. White woman in her 20s and 30s, spring and fall.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "109",
+      "char_default_name": "Jack",
+      "char_default_desc": "A white male wearing navy slacks, white button up shirt, grey vest and a navy necktie that looks like a school uniform. He is a student in his late teens but could also pass for being in his early twenties. Short, light brown hair that is gelled back, he has a bland demeanor and could either be the class nerd or an arrogant troublemaker depending on what situation he is in. He has cold, scheming, calculative eyes.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1042",
+      "char_default_name": "Rhiannon",
+      "char_default_desc": "Young CEO with a bright and open mind, business casual with a free-spirited yet formal style, white-collar female worker in her 20s and 30s, spring and fall. / A woman in a pink jacket, brown pencil skirt, black shoes, blonde perm hair, blusher, glamorous sexy, cute suit. Beautiful smile, positive, bubbly, smiling, lovely, start-up CEO style. New-year office worker style working for a fashion company.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1005",
+      "char_default_name": "Jin",
+      "char_default_desc": "Handsome K-pop star, MZ, male idol, casual style with denim jacket and jeans, gold necklace, short black hair and eyebrows, moderate double eyelids, loves music and has an affectionate style, Asian in their 20s, spring and autumn. / He's likeable, has a lot of friends both male and female, is humorous, and has a sweet personality. He loves basketball and running. He is a fair person who cannot stand injustice.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1043",
+      "char_default_name": "Preston",
+      "char_default_desc": "White-collar worker, office worker with neat shirt and blonde hair, white male in his late 20s to early 30s, spring, autumn. / Hardworking new employee, start-up employee, younger guy, passionate, eloquent, talkative, salespeople, impressive, exercise-loving, office worker style whose hobby is running after work.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1044",
+      "char_default_name": "Trent",
+      "char_default_desc": "The handsome romantic male lead, a humble elite, with a gentle and clean-cut style. Black hair with a casual white shirt and slacks, 20-30 year old Caucasian, for spring and fall. / He's friendly but reserved, and has a secretive side. He's neat and organized, and lives a regular life. He's a millionaire, a movie star, and a romantic, but he also fits in with the thriller genre.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1045",
+      "char_default_name": "Ronan",
+      "char_default_desc": "Young, warm, and calm style, suitable for a casual date, handsome eyes with dark blue color and brown hair, casual yet clean shirt and pants, 20-30 year old white male, spring, autumn. / He likes to go for walks and contemplate. He is not the most popular boy in school, but there are many girls who secretly like him. He can play the drums and enjoys a wide variety of music. He often goes to the library and participates in school events. He falls in love with a classmate or a stranger who moves in next door.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "114",
+      "char_default_name": "Elliott",
+      "char_default_desc": "A pale white male with shaggy, slightly wavy light brown hair that covers his entire forehead. He wears navy slacks, a white button up shirt, grey vest and navy necktie that looks like a school uniform. He\u2019s in his late teens or early twenties, but looks a bit older for his age. He has a strong nose and jawline, and brooding eyes that make him very popular. His overall demeanor makes him look like a confident, popular student that is slightly arrogant and likes to cause trouble.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1046",
+      "char_default_name": "Genevieve",
+      "char_default_desc": "A healthy and popular cheerleader. The protagonist is a black-haired hispanic high school girl, pretty and stylish, in her teens to 20s, tan, and set in spring, autumn, and summer. / She has a bubbly personality and has many friends, both girls and boys, and is very popular. She is a smart girl who studies well. However, as an adolescent girl, she has frequent arguments with her parents, often gets depressed when she is alone, and likes to talk to her best friend on the phone about her problems.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1047",
+      "char_default_name": "Barbara",
+      "char_default_desc": "This female protagonist has a well-proportioned body with a neat and tidy style, wearing a tank top with long hair. She is a white woman in her 20s to 30s, and the setting is in spring, autumn, and summer. / She has a flamboyant personality, loves to crack jokes and pranks, and is very outgoing despite her chic exterior. She is the school queen bee, celebrity, and also a sporty cheerleader. Her outward appearance makes it difficult for people to approach her, but she is a loving advisor to her friends.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1048",
+      "char_default_name": "Annabelle",
+      "char_default_desc": "Stylish and Gorgeous Popular high school student, protagonist in high-teen movies and high-teen dramas, party look, blonde perm hair, tweed setup, white teenager, spring and fall. / Girl group leader, the envy of girls, idol, beautiful smile, queen of the club party, main character of the party, charming, confident, prom queen style. Hot girl who loves attention, photography and dancing among people.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1049",
+      "char_default_name": "Jian",
+      "char_default_desc": "Young and handsome new employee, neat business casual look with a checkered jacket, younger guy. Asian guy in his 20s, spring, fall. / Kind, nice, reliable, exemplary, quiet, introverted, shy but popular office guy style. Casual outfit of a young start-up CEO.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1050",
+      "char_default_name": "Percy",
+      "char_default_desc": "A Caucasian high school student with bright and long hair in the style of a nobleman, who is popular but cannot fight. Wearing a school uniform, in their teens, white boy in their 10s, and in spring and autumn. / A boy with a serious and chic personality, introverted but charismatic, studious, smart, and has the top test scores in school. He may seem cool-headed, but he is also warm-hearted.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1051",
+      "char_default_name": "Nathan",
+      "char_default_desc": "A popular high school male protagonist with black hair and a strong impression, good at fighting, wearing a school uniform, a white teenager, white boy in their 10s, spring, and fall. / Confident, courageous, shows leadership, playful, but the outgoing classmate who plays pranks on the girl he likes.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1052",
+      "char_default_name": "Freya",
+      "char_default_desc": "A lively high school student who enjoys playing, with blonde hair and a pink checkered uniform, a white teenager, White girl in her teens, spring, fall, summer. / Attractive high school girl who loves chatting with friends, shopping for fancy, pretty clothes, and wearing makeup. Confident and honest personality.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1053",
+      "char_default_name": "Yuki",
+      "char_default_desc": "A high school student who studies well and is popular, class president, model student, with black ponytail and school uniform, Asian teenager, Asian girl in their 10s, spring, summer, autumn. / Lovely, neat, tidy, lifelike, sparkly, intelligent, smart girl. A high school girl who loves reading books, taking walks, and spending time with her family in the evening.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1054",
+      "char_default_name": "Mick",
+      "char_default_desc": "Repairman, grass cutter, car center operator, plumber, truck driver, thief, criminal, skilled in cars and machinery. A man with a full black beard and a typical American style. White male in his 20s to 30s, in spring and autumn. He is always involved in the criminals' shady dealings, and is always suspiciously lurking around or watching someone. He's a father who doesn't have a good relationship with his son, and he's also a devastated husband who lost his wife.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1055",
+      "char_default_name": "Taemin",
+      "char_default_desc": "A quiet Korean male high school student wearing a night gown, with blonde bleached hair on the shorter side. Asian teenager, spring, fall. He listens to hip-hop and enjoys bowling and playing pool. He loves going to karaoke and has a large group of friends that he hangs out with. He's clumsy around women. He is a mixed-race child who struggles with his identity. An immigrant who longs to belong. He is an energetic and rebellious boy, but he is deeply lonely inside.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1056",
+      "char_default_name": "Natalia",
+      "char_default_desc": "A pretty protagonist who looks sweet and innocent. Kind and down to earth, hard working and diligent. Neat and simple clothes. Short haircut and bangs that cover her forehead. White woman in her 20s to 30s, in spring or autumn.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1057",
+      "char_default_name": "Daniel",
+      "char_default_desc": "Workaholic, white collar, handsome office worker. Engineer, developer, lawyer, insurance company employee. Wears a shirt with a tie. Scruffy with a little mustache but overall still has a neat style. White male, spring, late 20s to early 30s. The casual style of a smart, intelligent, office worker in a large corporation, married man who loves his wife. Warm personality. And gentle, family personality.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1058",
+      "char_default_name": "Owen",
+      "char_default_desc": "A not bad-looking, average office worker man. Comfortable and warm style. Wears a shirt. White male in his 20s to 30s, spring, autumn. An office worker who likes to read books at bookstores, an office worker who likes to go on dates with his girlfriend, a friendly, kind, cute, reliable younger guy.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1059",
+      "char_default_name": "Soren",
+      "char_default_desc": "A pretty, lively, perky and cheerful female lead. Bright and warm, with a smiling face, a white woman in her 20s, spring and fall. She is the daughter of a wealthy and well-bred family, very polite, modest and elegant, old-money styled. She gives the impression of maturity but has a loving and easy-going personality. Her hobbies include ballet and playing the violin.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1061",
+      "char_default_name": "Honora",
+      "char_default_desc": "An ordinary looking woman in her 20s or 30s who enjoys camping and hiking, wearing a checked shirt and vest, and wavy short hair.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "1062",
+      "char_default_name": "Leilani",
+      "char_default_desc": "A teenage woman with brown pigtails, freckles on her face, otaku fashion, and a fan of Japanese comics.",
+      "gender": "F",
+      "default_voice_id": "en-JennyNeural"
+    },
+    {
+      "char_id": "5036",
+      "char_default_name": "Winston",
+      "char_default_desc": "A man in his mid-50s to early 60s, with neatly styled white hair, exudes an air of authority and professionalism. Father figure. Formal, professional, composed, respected, a man of few words, but kind at heart. Teacher, mentor type of a figure. News anchor, professor type. Mature, accomplished, and respected individual who likely possesses a strong presence, intellect, and communication skills.",
+      "gender": "M",
+      "default_voice_id": "en-JennyNeural"
+    }
+  ]
+}
